@@ -1,0 +1,12 @@
+x,y,z=12,10,13
+print(x)
+print(y)
+print(z)
+print(type(x))
+print(type(y))
+print(type(z))
+fruits=['a','b','c']
+x,y,z=fruits
+print(x)
+print(y)
+print(z)
